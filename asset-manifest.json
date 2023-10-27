@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caw-studios/static/css/main.ffe34ec7.css",
+    "main.js": "/caw-studios/static/js/main.b4a74898.js",
+    "static/js/787.94bc004f.chunk.js": "/caw-studios/static/js/787.94bc004f.chunk.js",
+    "index.html": "/caw-studios/index.html",
+    "main.ffe34ec7.css.map": "/caw-studios/static/css/main.ffe34ec7.css.map",
+    "main.b4a74898.js.map": "/caw-studios/static/js/main.b4a74898.js.map",
+    "787.94bc004f.chunk.js.map": "/caw-studios/static/js/787.94bc004f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.b4a74898.js"
+  ]
+}
